@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Convert\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
